@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		413B1FC7262986FB003BC561 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 413B1FC6262986FB003BC561 /* GoogleService-Info.plist */; };
 		413B1FCF262993FF003BC561 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 413B1FCE262993FF003BC561 /* LaunchScreen.storyboard */; };
 		4180D74A2622C01C00D9EE57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180D7492622C01C00D9EE57 /* AppDelegate.swift */; };
 		4180D74C2622C01C00D9EE57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180D74B2622C01C00D9EE57 /* SceneDelegate.swift */; };
@@ -17,7 +16,6 @@
 		4180D7612622C01F00D9EE57 /* TableViewAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180D7602622C01F00D9EE57 /* TableViewAppTests.swift */; };
 		4180D76C2622C01F00D9EE57 /* TableViewAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180D76B2622C01F00D9EE57 /* TableViewAppUITests.swift */; };
 		4180D7BC2622D4DF00D9EE57 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4180D7BB2622D4DF00D9EE57 /* WebViewController.swift */; };
-		41BA8DC52629A95C0035F23A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BA8DC42629A95C0035F23A /* LoginViewController.swift */; };
 		C445092E730D8C4587DDEC65 /* Pods_TableViewApp_TableViewAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B575C68244E6DD671C800005 /* Pods_TableViewApp_TableViewAppUITests.framework */; };
 		D3764C759299993E06307A68 /* Pods_TableViewApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9096E0290D6B2605433F8395 /* Pods_TableViewApp.framework */; };
 		FAEC1F5C83B8EC16032A2A14 /* Pods_TableViewAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46D8D502ED0181FEEF0349EF /* Pods_TableViewAppTests.framework */; };
@@ -41,7 +39,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		413B1FC6262986FB003BC561 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		413B1FCE262993FF003BC561 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4180D7462622C01C00D9EE57 /* TableViewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4180D7492622C01C00D9EE57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -57,7 +54,6 @@
 		4180D76B2622C01F00D9EE57 /* TableViewAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewAppUITests.swift; sourceTree = "<group>"; };
 		4180D76D2622C01F00D9EE57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4180D7BB2622D4DF00D9EE57 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
-		41BA8DC42629A95C0035F23A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		46D8D502ED0181FEEF0349EF /* Pods_TableViewAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TableViewAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		550DCC58AE9CCA89EE031055 /* Pods-TableViewApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TableViewApp.release.xcconfig"; path = "Target Support Files/Pods-TableViewApp/Pods-TableViewApp.release.xcconfig"; sourceTree = "<group>"; };
 		59A0FD9D0E02EE639F70603F /* Pods-TableViewApp-TableViewAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TableViewApp-TableViewAppUITests.debug.xcconfig"; path = "Target Support Files/Pods-TableViewApp-TableViewAppUITests/Pods-TableViewApp-TableViewAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -140,8 +136,6 @@
 				413B1FCE262993FF003BC561 /* LaunchScreen.storyboard */,
 				4180D7522622C01E00D9EE57 /* Assets.xcassets */,
 				4180D7572622C01E00D9EE57 /* Info.plist */,
-				413B1FC6262986FB003BC561 /* GoogleService-Info.plist */,
-				41BA8DC42629A95C0035F23A /* LoginViewController.swift */,
 			);
 			path = TableViewApp;
 			sourceTree = "<group>";
@@ -287,7 +281,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				413B1FC7262986FB003BC561 /* GoogleService-Info.plist in Resources */,
 				413B1FCF262993FF003BC561 /* LaunchScreen.storyboard in Resources */,
 				4180D7532622C01E00D9EE57 /* Assets.xcassets in Resources */,
 				4180D7512622C01C00D9EE57 /* Main.storyboard in Resources */,
@@ -452,7 +445,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41BA8DC52629A95C0035F23A /* LoginViewController.swift in Sources */,
 				4180D74E2622C01C00D9EE57 /* ViewController.swift in Sources */,
 				4180D74A2622C01C00D9EE57 /* AppDelegate.swift in Sources */,
 				4180D74C2622C01C00D9EE57 /* SceneDelegate.swift in Sources */,
