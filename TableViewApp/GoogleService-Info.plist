@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>864583907008-omlbck62a1md7d567q28dnv6fd9ru6fd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.864583907008-omlbck62a1md7d567q28dnv6fd9ru6fd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrN1SxXUd2e2p5Bwq5zFW6Pja3ikupu68</string>
+	<key>GCM_SENDER_ID</key>
+	<string>864583907008</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Sidarth.TableViewApp</string>
+	<key>PROJECT_ID</key>
+	<string>authtest-4d82e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authtest-4d82e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:864583907008:ios:b4f22bc621e2b110f41f25</string>
+</dict>
+</plist>
